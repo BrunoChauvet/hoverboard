@@ -1,14 +1,14 @@
 {
   "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "startDate": "2017-11-25T08:00:00+10:00",
+  "endDate": "2017-11-25T18:00:00+10:00",
   "analytics": {
     "prod": "UA-43643469-8",
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Sydney",
+    "twitter": "gdgsydney"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -16,10 +16,10 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "devfest-sydney-2017",
+    "domain": "devfest-sydney-2017.firebaseapp.com",
+    "database": "https://devfest-sydney-2017.firebaseio.com",
+    "api": "AIzaSyAI0xmi8cebA0LM2igtQS6Oc_C0aC5y_4Q",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -29,7 +29,7 @@
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
   "dateFormat": {
-    "locale": "en-US",
+    "locale": "en-AU",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
   "hashtag": "dfua",
@@ -84,17 +84,17 @@
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "Domain Pyrmont",
+    "address": "55 Pyrmont St, Pyrmont, NSW 2009",
+    "link": "https://www.google.com.au/maps/place/55+Pyrmont+St,+Pyrmont+NSW+2009/@-33.86814,151.1919031,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12ae36929b8279:0x5f882e03d383cc12!8m2!3d-33.86814!4d151.1940918?hl=en",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": -33.86814,
+      "longitude": 151.1919031,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": -33.86814,
+      "longitude": 151.1919031
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -121,7 +121,7 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
+          "title": "GDG DevFest Sydney 2016",
           "youtubeId": "TdpbgRgz6eE",
           "text": "See how it was in 2016"
         },
@@ -162,7 +162,7 @@
       }
     },
     "cod": {
-      "title": "Cod of Conduct",
+      "title": "Code of Conduct",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
