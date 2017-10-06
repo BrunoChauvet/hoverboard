@@ -3,8 +3,8 @@
   "startDate": "2017-11-25T08:00:00+10:00",
   "endDate": "2017-11-25T18:00:00+10:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-107718750-1",
+    "dev": "UA-107718750-1"
   },
   "organizer": {
     "name": "GDG Sydney",
